@@ -5,8 +5,8 @@
 Details about the rules and pieces can be found here: https://en.wikipedia.org/wiki/Janggi
 
 
-##### Instructions
-![Main Page](Pictures-for-ReadME/Main.png)
+### Instructions
+![Main Page](Pictures-for-ReadME/Board.png)
 
 At the start of the program:
 * Enter the location of the first piece to be moved
@@ -21,7 +21,7 @@ Special notes:
 
 
 
-##### Abbreviations
+### Abbreviations
 
 The R or B refers to the Red and Blue side of the board.
 * K - General/King
