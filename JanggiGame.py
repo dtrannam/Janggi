@@ -1,6 +1,3 @@
-# Name: David Trannam
-# Description: Janggi Game - Portfolio project.
-
 class JanggiGame:
     """
     This is the class set up for my Janggi Board. It does not take in any argument to create the board
